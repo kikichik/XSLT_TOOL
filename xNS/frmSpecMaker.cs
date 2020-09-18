@@ -11,6 +11,7 @@ using System.Xml.Serialization;
 using Xceed.Words.NET;
 using System.Xml;
 using System.IO;
+using Xceed.Document.NET;
 
 namespace xNS
 {
